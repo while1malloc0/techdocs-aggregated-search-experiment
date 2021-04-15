@@ -1,0 +1,8 @@
+site_name: Star Wars Jedi
+
+nav:
+  - Luke Skywalker: luke.md
+  - Yoda: yoda.md
+
+plugins:
+  - techdocs-core

@@ -1,0 +1,13 @@
+# Yoda
+
+Yoda (/ˈjoʊdə/) is a fictional character in the Star Wars universe, first appearing in the 1980 film The Empire Strikes Back. He is a small, green humanoid alien who is powerful with the Force and served as Grandmaster of the Jedi Order. In The Empire Strikes Back, Yoda was voiced and puppeteered by Frank Oz, who reprised the role in Return of the Jedi, the prequel trilogy, and the sequel trilogy. Outside of the films, the character has been mainly voiced by Tom Kane, starting with the 2003 Clone Wars animated television series. Yoda has since become an iconic figue in popular culture due to his distinct pattern of speech and role as a wise mentor.
+
+In his first appearance in the original trilogy, Yoda is described as the mentor of Obi-Wan Kenobi, and lives in exile on the swamp planet of Dagobah. He trains Luke Skywalker in the ways of the Force until his death at the age of 900 in Return of the Jedi, though he later returns as a Force spirit. In the prequel trilogy, Yoda leads the Jedi High Council and trains the young generations of Jedi until they are assigned to a master. When the Clone Wars breaks out, he becomes a general in the Galactic Republic's army and leads several legions of clone troopers. Yoda is one of the few Jedi to survive the events of Order 66 at the end of the war, and faces off against Emperor Palpatine, but is outmatched and forced to go into hiding. Yoda's spirit appears again in the sequel trilogy, advising an older Luke and empowering Rey to face a revived Palpatine.
+
+## Appearances
+
+### The Empire Strikes Back
+
+Yoda makes his first film appearance in The Empire Strikes Back. Luke Skywalker (Mark Hamill) arrives on Dagobah to seek his guidance, having been instructed to do so by the Force ghost of Obi-Wan Kenobi (Alec Guinness), who describes him as "the Jedi Master who instructed me."
+
+Yoda does not initially identify himself to Luke and instead tests his patience by presenting himself as a comical backwater individual, deliberately provoking both Luke and R2-D2. Luke is shocked when he finally discovers that this small, eccentric creature is the powerful Jedi Master he was seeking. Finding that Luke has the same anger and recklessness which caused his father's downfall, Yoda is reluctant to teach him the ways of the Force and agrees only at Obi-Wan's behest. Before finishing his training, Luke chooses to leave Dagobah in order to confront Darth Vader and save his friends on Bespin. Yoda and Obi-Wan warn him that he is not ready to face Vader and is being lured into a trap but Luke leaves anyway. When Obi-Wan laments that Luke is their "last hope," Yoda reminds him that "there is another."

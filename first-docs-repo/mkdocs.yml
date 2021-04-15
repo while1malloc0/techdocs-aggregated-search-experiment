@@ -1,0 +1,8 @@
+site_name: Star Trek Captains
+
+nav:
+  - Jean Luc Picard: jean-luc.md
+  - James T. Kirk: jim.md
+
+plugins:
+  - techdocs-core
